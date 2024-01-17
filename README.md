@@ -1,3 +1,8 @@
 # Hi, I'm Erik!
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=github&link=https%3A%2F%2Fgithub.com%2FLord-Vader4606)
-![Static Badge](https://img.shields.io/badge/MayhemPW%20?style=flat&logo=php&link=https%3A%2F%2Fmayhem.pw)
+Some of my big projects 
+--> https://mayhem.pw
+--> https://riseofkings.ctechstudios.com
+Not so big projects
+--> https://replit.com/@Lord-Vader4606/FinalProject
+--> https://github.com/Lord-Vader4606/MyPPCStore-ImportToast
+--> https://github.com/Lord-Vader4606/PPC-Text-Program
